@@ -16,17 +16,14 @@ button {
 /* Root Variables */
 
 :root {
-	--font-primary: 'Karla', sans-serif;
-	--font-display: var(--font-primary) !important;
-	/* Dark Matter Variables */
-	--avatar-size: 32px;
-	--background-image: url('https://i.imgur.com/7SbtKvw.png');
-	--home-image: url('https://i.imgur.com/233d55Y.gif');
-	--background-solid: #161921;
-	--background-solid-dark: #101218;
-	--background-solid-darker: #0c0e12;
-	--accent: 37, 172, 232;
-	--accent-alt: 29, 101, 134;
+--avatar-size: 32px;
+--background-image: url('https://imgur.com/a/naGzslo');
+--home-image: url('https://imgur.com/a/fhZW7SM');
+    --background-solid: #211816;
+    --background-solid-dark: #241512;
+    --background-solid-darker: #140f0e;
+    --accent: 255, 172, 0;
+    --accent-alt: 255, 172, 0;
 	--md-black: 0, 0, 0;
 	--dm-white: 255, 255, 255;
 	/* BlurpleRecolor */
